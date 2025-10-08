@@ -6,3 +6,10 @@ Text("(Int(minutes))分") のエスケープミス回避
 sendMessageのreplyHandlerを使う場合、受信側で didReceiveMessage:replyHandler: を必ず実装
 ObservableObjectのアンチパターン回避（@StateObject/@ObservedObjectの混在禁止、過度な階層化NG）
 Invalid redeclaration of synthesized propertyエラーがViewModelで発生する場合はAppStrageからUserDefaultへ変更
+
+
+# Format
+## エラー修正
+未完了:
+
+完了:
