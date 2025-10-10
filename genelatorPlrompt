@@ -4,7 +4,7 @@
 - URL,ファイルを精読し、アーキテクチャを遵守しながら初期リリースに必要十分な機能、UIを定義。
 - Timer周りのロジックは問題が起こりやすいので特に精密に検証が必要。
 - プロジェクトのコードを生成後、ViewPartsの不足、慎重にエラーチェック。
-- コードは生成、エラーチェック後に、コピペ回数を減らすためにフォルダ毎の3ブロック以内にまとめて出力。 
+- コードは生成、エラーチェック後に、コピペ回数を減らすためにフォルダ毎の3コードブロック以内にまとめて出力。 
 エラー対応: 公開 URL https://github.com/GityouWoW/AIPrompt/blob/main/errorAvoidance.md
 アーキテクチャ: 公開 URL https://github.com/GityouWoW/ASM-F/blob/main/ArchitectureSpecV11.md
 タイマーアーキテクチャプロトタイプ: 公開 URL https://github.com/GityouWoW/TimerPollingArchitecturePrototype/blob/main/specv1.md
